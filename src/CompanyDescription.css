@@ -1,0 +1,19 @@
+.company-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.company-description .company-title {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva,
+    Verdana, sans-serif;
+  font-weight: 200;
+  color: white;
+}
+
+.company-description .company-details {
+  color: white;
+  font-size: 14px;
+  padding: 5px;
+}
