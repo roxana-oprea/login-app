@@ -1,4 +1,4 @@
-.form-login {
+.form-register {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -6,13 +6,13 @@
   margin: 0 auto;
 }
 
-.form-login label {
+.form-register label {
   text-transform: uppercase;
   color: gray;
   font-size: 11px;
 }
 
-.form-login input {
+.form-register input {
   border: 1px solid #d6d2d2;
   width: 100%;
   height: 40px;
@@ -20,20 +20,21 @@
   padding: 5px;
 }
 
-.form-login .start-button {
+.form-register .start-button {
   border: 1px solid grey;
   width: 100%;
   height: 40px;
   border-radius: 4px;
   padding: 10px;
   background-color: #0da249;
+  color: white;
 }
 
-.form-login .form-row {
+.form-register .form-row {
   width: 90%;
   margin-bottom: 30px;
 }
 
-.form-login .terms {
+.form-register .terms {
   font-size: 10px;
 }

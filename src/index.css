@@ -24,6 +24,7 @@ code {
   border: 1px solid grey;
   margin: 100px auto 0;
   max-width: 900px;
+  min-height: 600px;
   margin-top: 100px;
   border-radius: 20px;
   display: flex;
@@ -35,7 +36,7 @@ code {
   border-radius: 20px 0 0 20px;
 }
 
-.login {
+.register {
   width: 50%;
   border-radius: 20px 0 0 20px;
   padding: 60px 0;
