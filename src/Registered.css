@@ -1,0 +1,15 @@
+.registered-message {
+  color: #0da249;
+  width: 50%;
+  text-align: center;
+}
+
+.registered-message .back-button {
+  border: 1px solid grey;
+  width: 50%;
+  height: 40px;
+  border-radius: 4px;
+  padding: 10px;
+  background-color: #0da249;
+  color: white;
+}
